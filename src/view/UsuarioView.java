@@ -5,12 +5,6 @@ import javax.swing.JOptionPane;
 import model.Caminhada;
 import model.Usuario;
 
-/**
-* Aplicação solicita nome, peso, e duração da atividade para calcular as calorias queimadas.
-* Tentei utilizar as demais atividade tentando fazer um switch com cada atividade sendo chamada
-* dentro do case correspondente mais o Java não gostou muito. Então vai do jeito simples para não
-* perder o prazo novamente.
-*/
 
 public class UsuarioView {
 
